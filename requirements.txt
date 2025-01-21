@@ -1,0 +1,8 @@
+These are the required python packages to use this tool, don't worry as you do not need to manually install these, they will be installed when running the program.
+
+ultralytics
+onnx
+onnxruntime
+torch
+torchvision
+numpy
